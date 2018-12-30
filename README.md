@@ -36,5 +36,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-robotbit=github:Kittenbot/pxt-robotbit
+robotbit=github:mymell2003/pxt-robotbit
 ```
